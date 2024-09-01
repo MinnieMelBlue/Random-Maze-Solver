@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Random_Maze_Solver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "maze_generation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-maze_generation-Debug-aa35f6e226be242d212c.json",
+					"name" : "maze_generation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_maze_solver_parallel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_maze_solver_parallel-Debug-639a035ce89f80ea62be.json",
+					"name" : "random_maze_solver_parallel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_maze_solver_sequential::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_maze_solver_sequential-Debug-6e7388d18c8f5c475815.json",
+					"name" : "random_maze_solver_sequential",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/minniemac/CLionProjects/Random_Maze_Solver/cmake-build-release",
+		"source" : "/Users/minniemac/CLionProjects/Random_Maze_Solver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

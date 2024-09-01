@@ -1,0 +1,13 @@
+Dataset,Particles,Threads,Time (seconds)
+maze_50.txt,50,2,22.6146
+maze_50.txt,50,4,42.4450
+maze_50.txt,50,6,35.6578
+maze_50.txt,50,8,8.9655
+maze_50.txt,50,10,1.4790
+maze_50.txt,50,12,4.6958
+maze_50.txt,100,2,210.2548
+maze_50.txt,100,4,158.4450
+maze_50.txt,100,6,8.6520
+maze_50.txt,100,8,49.7745
+maze_50.txt,100,10,6.8178
+maze_50.txt,100,12,2.9304

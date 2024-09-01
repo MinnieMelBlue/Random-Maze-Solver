@@ -1,0 +1,26 @@
+# ninja log v6
+531	559	1725226690907298520	random_maze_solver_parallel	717ae6f6a65216ae
+524	553	1725226690899676769	random_maze_solver_sequential	2f172e54dcfacb7c
+517	547	1725226690892684476	maze_generation	de807f717df3d808
+3	523	1725226690378668645	CMakeFiles/random_maze_solver_sequential.dir/maze.cpp.o	b42c65c3c2188fb1
+3	531	1725226690379024770	CMakeFiles/random_maze_solver_parallel.dir/maze.cpp.o	cd3cd1d6bad08bca
+2	516	1725226690378561395	CMakeFiles/maze_generation.dir/maze.cpp.o	38b874c78b6f0d1a
+3	403	1725226690378937478	CMakeFiles/random_maze_solver_parallel.dir/random_maze_solver_parallel.cpp.o	cc5eca43f5511b05
+3	274	1725226690378762978	CMakeFiles/random_maze_solver_sequential.dir/particle.cpp.o	280d082983501590
+3	393	1725226690378851187	CMakeFiles/random_maze_solver_sequential.dir/random_maze_solver_sequential.cpp.o	8ab177b3879bf10f
+2	350	1725226690378345145	CMakeFiles/maze_generation.dir/maze_generation.cpp.o	bd954e35c6c56e49
+3	280	1725226690379116937	CMakeFiles/random_maze_solver_parallel.dir/particle.cpp.o	32fd12cafe877d52
+1	7	1725226689624155943	clean	ad90e366ad70d77b
+3	7	1725228967795686686	clean	ad90e366ad70d77b
+3	301	1725228968594583086	CMakeFiles/random_maze_solver_sequential.dir/particle.cpp.o	280d082983501590
+3	343	1725228968595195377	CMakeFiles/random_maze_solver_parallel.dir/particle.cpp.o	32fd12cafe877d52
+2	368	1725228968594148253	CMakeFiles/maze_generation.dir/maze_generation.cpp.o	bd954e35c6c56e49
+3	407	1725228968594662919	CMakeFiles/random_maze_solver_sequential.dir/random_maze_solver_sequential.cpp.o	8ab177b3879bf10f
+3	410	1725228968594747544	CMakeFiles/random_maze_solver_parallel.dir/random_maze_solver_parallel.cpp.o	cc5eca43f5511b05
+3	520	1725228968594833960	CMakeFiles/random_maze_solver_parallel.dir/maze.cpp.o	cd3cd1d6bad08bca
+2	522	1725228968594488086	CMakeFiles/random_maze_solver_sequential.dir/maze.cpp.o	b42c65c3c2188fb1
+2	548	1725228968594389378	CMakeFiles/maze_generation.dir/maze.cpp.o	38b874c78b6f0d1a
+522	551	1725228969113717167	random_maze_solver_sequential	2f172e54dcfacb7c
+520	552	1725228969112194419	random_maze_solver_parallel	717ae6f6a65216ae
+548	577	1725228969139738456	maze_generation	de807f717df3d808
+2	6	1725229466012256228	clean	ad90e366ad70d77b

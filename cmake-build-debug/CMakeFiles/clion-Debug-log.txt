@@ -1,0 +1,5 @@
+/Applications/CMake.app/Contents/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/gcc-14 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/14.2.0/bin/g++-14 -DCMAKE_BUILD_TYPE=Debug -DCMAKE_OSX_ARCHITECTURES=arm64 "-DCMAKE_C_FLAGS=-Xpreprocessor -fopenmp -I/opt/homebrew/Cellar/libomp/18.1.8/include" "-DCMAKE_CXX_FLAGS=-Xpreprocessor -fopenmp -I/opt/homebrew/Cellar/libomp/18.1.8/include" "-DCMAKE_EXE_LINKER_FLAGS=-L/opt/homebrew/opt/libomp/lib -lomp" -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G Ninja -S /Users/minniemac/CLionProjects/Random_Maze_Solver -B /Users/minniemac/CLionProjects/Random_Maze_Solver/cmake-build-debug
+-- Found SFML 2.6.1 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/minniemac/CLionProjects/Random_Maze_Solver/cmake-build-debug
